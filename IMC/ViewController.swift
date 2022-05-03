@@ -60,7 +60,7 @@ class ViewController: UIViewController {
         ivResult.image = UIImage(named: image)
         viResult.isHidden = false
         view.endEditing(true)
-        
+        //hide keyboard
     }
     
 }
